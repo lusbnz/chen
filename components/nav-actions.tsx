@@ -15,7 +15,6 @@ import {
   MoreHorizontal,
   Settings2,
   Star,
-  Trash,
   Trash2,
 } from "lucide-react"
 
